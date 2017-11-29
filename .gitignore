@@ -1,0 +1,9 @@
+node_modules
+
+### Intellij - Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm ###
+ 
+/out/
+*.iml
+ 
+# Directory-based project format:
+.idea/
